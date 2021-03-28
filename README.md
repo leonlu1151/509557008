@@ -5,10 +5,10 @@
 
 ### Pass all test cases
 
-    ![Imgur](https://imgur.com/0IWGmXr)
-    ![Imgur](https://imgur.com/NuC7gkJ)
+    ![Imgur](https://i.imgur.com/0IWGmXr.png)
+    ![Imgur](https://i.imgur.com/NuC7gkJ.png)
 
 ### Unable to pass one of the test cases
 
-    ![Imgur](https://imgur.com/qKT9TP9)
-    ![Imgur](https://imgur.com/TiV4cfj)
+    ![Imgur](https://i.imgur.com/qKT9TP9.png)
+    ![Imgur](https://i.imgur.com/TiV4cfj.png)
